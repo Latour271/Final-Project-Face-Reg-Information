@@ -1,13 +1,13 @@
 # Final-Project-Face-Reg-Information
 This repository details all hardware and software requirements of our Facial Recognition Camera for IT 254.
-Hardware
+HARDWARE
 - Arduino Mega 2560
-- around 16 or 17 wires
+- 14 wires
 - LCD (Liquid Crystal Display)
 - USB device
 - Bread Board
 - Individual Computers
-Software
+  SOFTWARE
 - Python
 - Arduino IDE
 - Google Teachable
