@@ -54,4 +54,5 @@ Tips:
 - Use color coding for wires (Red = VCC, Black = GND, Blue = SDA, Yellow = SCL)
 - Label all wires clearly in your diagram
 
-- End of README
+License:
+MIT
