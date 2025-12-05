@@ -4,11 +4,12 @@ HARDWARE
 - Arduino Mega 2560
 - 14 wires
 - LCD (Liquid Crystal Display)
-- USB device
-- Bread Board
+- USB cord
+- Mega bread Board
 - Individual Computers
   SOFTWARE
-- Python
-- Arduino IDE
-- Google Teachable
-- Copilot (assisted in creation)
+- Python 3.11
+- Arduino IDE latest version
+- Google Teachable latest version
+- Copilot latest version (assisted in creation)
+- Visual Studio latest version
