@@ -26,7 +26,8 @@ Hardware & Software Requirements
 - USB Cable Type: Some cables are power-only; must ensure data-capable cable  
 - Teachable Machine Export: Exported models must be compatible with TensorFlow Lite or Python runtime
 
-Demo Video Link
+DEMO VIDEO LINK
+https://share.icloud.com/photos/0d1J_vs9tR4QhOu0p9UQUycGw
 
 
   
